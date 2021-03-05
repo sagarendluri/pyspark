@@ -6,7 +6,7 @@
 
 FROM ubuntu:xenial
 
-MAINTAINER Ruslan Korniichuk <ruslan.korniichuk@gmail.com>
+MAINTAINER sagar <sagarendluri@gmail.com>
 
 USER root
 
